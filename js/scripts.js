@@ -32,12 +32,11 @@ function pigLatTrans (word) {
   }
 
   return word;
-  
 }
 
-// pigLatTrans("banana");
+pigLatTrans("banana");
 //  pigLatTrans("queen");
 //pigLatTrans("squeel");
-pigLatTrans("aria,,!??");
+//pigLatTrans("aria,,!??");
 // pigLatTrans("chair");
 // pigLatTrans("aloha");
