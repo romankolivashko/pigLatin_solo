@@ -1,6 +1,4 @@
-# _{Application Name}_
-
-#### _{Brief description of application}_
+# _Pig Latin application_
 
 #### By _**Roman Kolivashko**_
 
@@ -10,9 +8,6 @@
 * _CSS_
 * _JavaScript_
 
-## Description
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
 ## Setup/Installation Requirements
 
